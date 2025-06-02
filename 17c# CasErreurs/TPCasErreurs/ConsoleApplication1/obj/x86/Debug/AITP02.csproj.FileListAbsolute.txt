@@ -1,0 +1,37 @@
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02 - Copie\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02 - Copie\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02 - Copie\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02 - Copie\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02 - Copie\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02 - Copie\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURS\coursBTS20112012\SI4\tp\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+D:\COURS\coursBTS20112012\SI4\tp\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\tp\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\tp\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAM\Dropbox\coursBTS20142015\SI4\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+C:\Users\LAM\Dropbox\coursBTS20142015\SI4\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\LAM\Dropbox\coursBTS20142015\SI4\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\LAM\Dropbox\coursBTS20142015\SI4\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\LAM\Dropbox\coursBTS20142015\SI4\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LAM\Dropbox\coursBTS20142015\SI4\tp C#\tp02initiation à la programmationC#\SI4TP02\ConsoleApplication1\obj\x86\Debug\AITP02.csprojResolveAssemblyReference.cache
+C:\Users\LAM\Dropbox\coursBTS20152016\SI4\TP\tp02initiation à la programmationC#\SI4TP01\ConsoleApplication1\bin\Debug\ConsoleApplication1.XML
+C:\Users\LAM\Dropbox\coursBTS20152016\SI4\TP\tp02initiation à la programmationC#\SI4TP01\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\LAM\Dropbox\coursBTS20152016\SI4\TP\tp02initiation à la programmationC#\SI4TP01\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

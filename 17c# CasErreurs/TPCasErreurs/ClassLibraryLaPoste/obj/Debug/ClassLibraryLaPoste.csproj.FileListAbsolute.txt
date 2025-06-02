@@ -1,0 +1,6 @@
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ClassLibraryLaPoste\bin\Debug\ClassLibraryLaPoste.dll
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ClassLibraryLaPoste\bin\Debug\ClassLibraryLaPoste.pdb
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ClassLibraryLaPoste\obj\Debug\ClassLibraryLaPoste.csproj.AssemblyReference.cache
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ClassLibraryLaPoste\obj\Debug\ClassLibraryLaPoste.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ClassLibraryLaPoste\obj\Debug\ClassLibraryLaPoste.dll
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ClassLibraryLaPoste\obj\Debug\ClassLibraryLaPoste.pdb

@@ -1,0 +1,7 @@
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\ProjetCSharpConsole\bin\Debug\ProjetCSharpConsole.exe.config
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\ProjetCSharpConsole\bin\Debug\ProjetCSharpConsole.exe
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\ProjetCSharpConsole\bin\Debug\ProjetCSharpConsole.pdb
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\ProjetCSharpConsole\obj\Debug\ProjetCSharpConsole.csproj.AssemblyReference.cache
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\ProjetCSharpConsole\obj\Debug\ProjetCSharpConsole.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\ProjetCSharpConsole\obj\Debug\ProjetCSharpConsole.exe
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\ProjetCSharpConsole\obj\Debug\ProjetCSharpConsole.pdb

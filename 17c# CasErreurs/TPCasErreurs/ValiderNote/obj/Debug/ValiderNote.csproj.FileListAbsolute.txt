@@ -1,0 +1,7 @@
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ValiderNote\bin\Debug\ValiderNote.exe.config
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ValiderNote\bin\Debug\ValiderNote.exe
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ValiderNote\bin\Debug\ValiderNote.pdb
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ValiderNote\obj\Debug\ValiderNote.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ValiderNote\obj\Debug\ValiderNote.exe
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ValiderNote\obj\Debug\ValiderNote.pdb
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\ValiderNote\obj\Debug\ValiderNote.csproj.AssemblyReference.cache

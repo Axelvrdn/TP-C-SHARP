@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Axel Cours\\Dev quesque\\Devoir 23-04-2024\\CSharp devoir Graphique\\CSharp devoir Graphique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Axel Cours\\Dev quesque\\Devoir 23-04-2024\\CSharp devoir Graphique\\CSharp devoir Graphique\\CSharp devoir Graphique.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharp devoir Graphique.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Axel Cours\\Dev quesque\\Devoir 23-04-2024\\CSharp devoir Graphique\\CSharp devoir Graphique\\.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSharp devoir Graphique.csproj",
+              "DocumentMoniker": "E:\\Axel Cours\\Dev quesque\\Devoir 23-04-2024\\CSharp devoir Graphique\\CSharp devoir Graphique\\CSharp devoir Graphique.csproj",
+              "RelativeDocumentMoniker": "CSharp devoir Graphique.csproj",
+              "ToolTip": "E:\\Axel Cours\\Dev quesque\\Devoir 23-04-2024\\CSharp devoir Graphique\\CSharp devoir Graphique\\CSharp devoir Graphique.csproj",
+              "RelativeToolTip": "CSharp devoir Graphique.csproj",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T16:10:24.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".Designer.cs",
+              "DocumentMoniker": "E:\\Axel Cours\\Dev quesque\\Devoir 23-04-2024\\CSharp devoir Graphique\\CSharp devoir Graphique\\.Designer.cs",
+              "RelativeDocumentMoniker": ".Designer.cs",
+              "ToolTip": "E:\\Axel Cours\\Dev quesque\\Devoir 23-04-2024\\CSharp devoir Graphique\\CSharp devoir Graphique\\.Designer.cs",
+              "RelativeToolTip": ".Designer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:10:16.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

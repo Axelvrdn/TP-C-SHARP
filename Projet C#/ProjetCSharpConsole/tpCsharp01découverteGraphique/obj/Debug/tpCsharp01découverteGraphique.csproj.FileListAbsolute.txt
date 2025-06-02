@@ -1,0 +1,10 @@
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\bin\Debug\tpCsharp01découverteGraphique.exe.config
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\bin\Debug\tpCsharp01découverteGraphique.exe
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\bin\Debug\tpCsharp01découverteGraphique.pdb
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\obj\Debug\tpCsharp01découverteGraphique.csproj.AssemblyReference.cache
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\obj\Debug\tpCsharp01découverteGraphique.Properties.Resources.resources
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\obj\Debug\tpCsharp01découverteGraphique.csproj.GenerateResource.cache
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\obj\Debug\tpCsharp01découverteGraphique.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\obj\Debug\tpCsharp01découverteGraphique.exe
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\obj\Debug\tpCsharp01découverteGraphique.pdb
+E:\Axel Cours\Projet C#\ProjetCSharpConsole\tpCsharp01découverteGraphique\obj\Debug\tpCsharp01découverteGraphique.frmimc.resources

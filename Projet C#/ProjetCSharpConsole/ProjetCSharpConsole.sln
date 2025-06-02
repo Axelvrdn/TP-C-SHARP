@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetCSharpConsole", "ProjetCSharpConsole\ProjetCSharpConsole.csproj", "{DE249EA4-BCD7-4B24-9059-63CF68A2066E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tpCsharp01découverteGraphique", "tpCsharp01découverteGraphique\tpCsharp01découverteGraphique.csproj", "{0814CCDC-D7C9-4867-BFDC-8234D263F015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE249EA4-BCD7-4B24-9059-63CF68A2066E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE249EA4-BCD7-4B24-9059-63CF68A2066E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE249EA4-BCD7-4B24-9059-63CF68A2066E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE249EA4-BCD7-4B24-9059-63CF68A2066E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0814CCDC-D7C9-4867-BFDC-8234D263F015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0814CCDC-D7C9-4867-BFDC-8234D263F015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0814CCDC-D7C9-4867-BFDC-8234D263F015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0814CCDC-D7C9-4867-BFDC-8234D263F015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED104DB-4C7E-4067-9D0C-A6A20AFA6905}
+	EndGlobalSection
+EndGlobal

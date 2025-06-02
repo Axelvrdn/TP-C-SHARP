@@ -1,0 +1,7 @@
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\TP Parti2\bin\Debug\TP Parti2.exe.config
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\TP Parti2\bin\Debug\TP Parti2.exe
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\TP Parti2\bin\Debug\TP Parti2.pdb
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\TP Parti2\obj\Debug\TP Parti2.csproj.AssemblyReference.cache
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\TP Parti2\obj\Debug\TP Parti2.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\TP Parti2\obj\Debug\TP Parti2.exe
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\TP Parti2\obj\Debug\TP Parti2.pdb

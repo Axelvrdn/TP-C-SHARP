@@ -1,0 +1,42 @@
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\evalB2.exe
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\evalB2.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\evalB2.exe.config
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\eval01B2.exe
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\eval01B2.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\eval01B2.exe.config
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

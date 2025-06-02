@@ -1,0 +1,10 @@
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\bin\Debug\CSharp devoir Graphique.exe.config
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\bin\Debug\CSharp devoir Graphique.exe
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\bin\Debug\CSharp devoir Graphique.pdb
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\obj\Debug\CSharp devoir Graphique.csproj.AssemblyReference.cache
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\obj\Debug\CSharp_devoir_Graphique.Form1.resources
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\obj\Debug\CSharp_devoir_Graphique.Properties.Resources.resources
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\obj\Debug\CSharp devoir Graphique.csproj.GenerateResource.cache
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\obj\Debug\CSharp devoir Graphique.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\obj\Debug\CSharp devoir Graphique.exe
+E:\Axel Cours\Dev quesque\Devoir 23-04-2024\CSharp devoir Graphique\CSharp devoir Graphique\obj\Debug\CSharp devoir Graphique.pdb

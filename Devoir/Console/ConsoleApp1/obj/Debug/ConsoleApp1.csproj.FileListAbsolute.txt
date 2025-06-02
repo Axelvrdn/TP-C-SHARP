@@ -1,0 +1,7 @@
+E:\Axel Cours\Dev quesque\Devoir\Console\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Axel Cours\Dev quesque\Devoir\Console\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Axel Cours\Dev quesque\Devoir\Console\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Axel Cours\Dev quesque\Devoir\Console\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Axel Cours\Dev quesque\Devoir\Console\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Dev quesque\Devoir\Console\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Axel Cours\Dev quesque\Devoir\Console\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

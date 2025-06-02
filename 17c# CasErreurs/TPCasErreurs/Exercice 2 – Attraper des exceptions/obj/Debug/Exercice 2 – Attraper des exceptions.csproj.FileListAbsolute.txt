@@ -1,0 +1,7 @@
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\Exercice 2 – Attraper des exceptions\obj\Debug\Exercice 2 – Attraper des exceptions.csproj.CoreCompileInputs.cache
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\Exercice 2 – Attraper des exceptions\bin\Debug\Exercice 2 – Attraper des exceptions.exe.config
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\Exercice 2 – Attraper des exceptions\bin\Debug\Exercice 2 – Attraper des exceptions.exe
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\Exercice 2 – Attraper des exceptions\bin\Debug\Exercice 2 – Attraper des exceptions.pdb
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\Exercice 2 – Attraper des exceptions\obj\Debug\Exercice 2 – Attraper des exceptions.csproj.AssemblyReference.cache
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\Exercice 2 – Attraper des exceptions\obj\Debug\Exercice 2 – Attraper des exceptions.exe
+E:\Axel Cours\Dev quesque\17c# CasErreurs\TPCasErreurs\Exercice 2 – Attraper des exceptions\obj\Debug\Exercice 2 – Attraper des exceptions.pdb

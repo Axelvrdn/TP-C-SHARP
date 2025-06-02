@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp20-classe-bliblio", "tp20-classe-bliblio\tp20-classe-bliblio.csproj", "{2F0744BB-F517-489C-80A8-454884FD20F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F0744BB-F517-489C-80A8-454884FD20F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0744BB-F517-489C-80A8-454884FD20F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0744BB-F517-489C-80A8-454884FD20F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0744BB-F517-489C-80A8-454884FD20F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E78D0A-DFC9-4D30-ABCC-7C7ED50A36AD}
+	EndGlobalSection
+EndGlobal

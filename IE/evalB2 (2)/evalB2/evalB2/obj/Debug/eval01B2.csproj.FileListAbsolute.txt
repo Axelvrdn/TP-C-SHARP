@@ -1,0 +1,11 @@
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\bin\Debug\eval01B2.exe.config
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\bin\Debug\eval01B2.exe
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\bin\Debug\eval01B2.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.csproj.AssemblyReference.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.frmAccueil.resources
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.frmIndemnites.resources
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.Properties.Resources.resources
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.csproj.GenerateResource.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.csproj.CoreCompileInputs.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.exe
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\eval01 machine test unitaire try catch tableau\evalB2\evalB2\obj\Debug\eval01B2.pdb

@@ -1,0 +1,5 @@
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\COURS\coursBTS20112012\SI4\cours 01\APPLI LA POSTE\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,2 @@
+E:\Axel Cours\Dev quesque\tp18\UnitTestProject\FonctionPartie2\obj\Debug\FonctionPartie2.csproj.AssemblyReference.cache
+E:\Axel Cours\Dev quesque\tp18\UnitTestProject\FonctionPartie2\obj\Debug\FonctionPartie2.csproj.CoreCompileInputs.cache

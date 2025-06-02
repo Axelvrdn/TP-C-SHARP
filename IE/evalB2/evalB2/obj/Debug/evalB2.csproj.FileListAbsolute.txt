@@ -1,0 +1,11 @@
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\bin\Debug\evalB2.exe.config
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\bin\Debug\evalB2.exe
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\bin\Debug\evalB2.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\evalB2.csproj.AssemblyReference.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\evalB2.Properties.Resources.resources
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\evalB2.csproj.GenerateResource.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\evalB2.csproj.CoreCompileInputs.cache
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\evalB2.exe
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\evalB2.pdb
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\eval01B2.frmAccueil.resources
+C:\Users\sever\Dropbox\coursBTS20212022\MALRAUX\BLOC 2-1\tpMDICONTROLESSAISIS\evalB2\evalB2\obj\Debug\eval01B2.frmIndemnites.resources
